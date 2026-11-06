@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+matplotlib
+jupyter
+fastapi
+uvicorn[standard]
+sqlalchemy
+pytest
+httpx
