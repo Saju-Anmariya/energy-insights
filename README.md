@@ -12,7 +12,7 @@ Forecasting German electricity grid load with Python: data pipeline, forecasting
 
 ## Dashboard
 
-![Energy Insights dashboard](docs/dashboard.png)
+![Energy Insights dashboard](docs/dashboard.png)(docs/forecast.png)
 
 ## Forecast results
 
