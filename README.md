@@ -59,7 +59,7 @@ data/raw/   SMARD data (CSV)
 
 ## Roadmap
 
-#- Streamlit dashboard with charts and forecast
+
 - Docker image and GitHub Actions pipeline
 - Cloud deployment
 - Security hardening: login with password hashing, input validation, dependency scanning
