@@ -8,6 +8,11 @@ Forecasting German electricity grid load with Python: data pipeline, forecasting
 - Trains a one-hour-ahead forecasting model with scikit-learn (see `notebooks/01_explore.ipynb`)
 - Stores the data in a SQLite database and serves it through a REST API built with FastAPI
 - Covered by automated tests (pytest) that run against a temporary database
+- Interactive Streamlit dashboard with grid load charts and forecast backtest
+
+## Dashboard
+
+![Energy Insights dashboard](docs/dashboard.png)
 
 ## Forecast results
 
@@ -54,7 +59,7 @@ data/raw/   SMARD data (CSV)
 
 ## Roadmap
 
-- Streamlit dashboard with charts and forecast
+#- Streamlit dashboard with charts and forecast
 - Docker image and GitHub Actions pipeline
 - Cloud deployment
 - Security hardening: login with password hashing, input validation, dependency scanning
