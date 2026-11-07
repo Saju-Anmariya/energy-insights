@@ -1,5 +1,5 @@
-# energy-insights# Energy Insights
-
+# Energy Insights
+![CI](https://github.com/Saju-Anmariya/energy-insights/actions/workflows/ci.yml/badge.svg)
 Forecasting German electricity grid load with Python: data pipeline, forecasting model and REST API.
 
 ## What it does
@@ -12,7 +12,9 @@ Forecasting German electricity grid load with Python: data pipeline, forecasting
 
 ## Dashboard
 
-![Energy Insights dashboard](docs/forecast.png)
+![Energy Insights dashboard](docs/dashboard.png)
+
+![Forecast vs actual](docs/forecast.png)
 
 ## Forecast results
 
