@@ -8,3 +8,6 @@ sqlalchemy
 pytest
 httpx
 streamlit
+
+bcrypt
+PyJWT
